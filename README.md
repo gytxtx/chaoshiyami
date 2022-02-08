@@ -14,7 +14,7 @@
 
 小游戏：超市小雅米
 
-[鹿乃b站](https://space.bilibili.com/284572130)
+[Y雅米Mb站](https://space.bilibili.com/284572130)
 |
 [Github Pages](https://github.com/gytxtx/chaoshiyami)
 
